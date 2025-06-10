@@ -1,0 +1,3 @@
+[submodule "phase_1/dsc-run-jupyter-loca"]
+	path = phase_1/dsc-run-jupyter-loca
+	url = https://github.com/timothy-87/course_material.git
